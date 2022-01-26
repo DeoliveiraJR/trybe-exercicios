@@ -2,7 +2,7 @@
 
 ## Fundamentos do Desenvolvimento Web 
 
-##### white_check_mark - Bloco 01: Unix & Bash
+##### white_check_markBloco 01: Unix & Bash
 
 ##### hourglass_flowing_sand - Bloco 02: Git, GitHub e Internet
 

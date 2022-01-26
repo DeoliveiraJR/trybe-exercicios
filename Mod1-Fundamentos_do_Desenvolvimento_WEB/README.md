@@ -19,3 +19,11 @@
 ##### hourglass_flowing_sand - Bloco 08: Higher Order Functions do JavaScript ES6
 
 ##### hourglass_flowing_sand - Bloco 09: JavaScript e Testes Assíncronos
+
+white_check_markBloco 01: Unix & Bash
+
+white_check_mark Bloco 01: Unix & Bash
+
+white_check_mark  ##### Bloco 01: Unix & Bash
+
+white_check_mark  #####Bloco 01: Unix & Bash

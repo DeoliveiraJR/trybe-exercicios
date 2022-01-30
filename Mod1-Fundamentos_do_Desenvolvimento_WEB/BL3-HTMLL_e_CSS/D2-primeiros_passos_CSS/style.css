@@ -1,0 +1,15 @@
+h1{
+    font-family: sans-serif;
+    text-align: end;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+    text-align: center;
+    text-decoration: underline overline;
+}
+body{
+    font-size: 16px;
+    font-style: oblique;
+    line-height: 12px;
+}

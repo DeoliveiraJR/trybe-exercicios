@@ -30,10 +30,8 @@ let maiorNum = 0;
 for( let i = 0; i < numbers.length; i += 1 ) {  
 if( numbers[i] > maiorNum) {
     maiorNum = numbers[i]
-} else {
-    maiorNum = maiorNum
 }
-    
+
 }
 
 console.log("Maior valor da lista = " + maiorNum)
@@ -43,22 +41,22 @@ let contNumImpares = 0;
 for( let i = 0; i < numbers.length; i += 1 ) {  
 if( numbers[i] % 2 > 0) {
     contNumImpares = contNumImpares += 1;
-} else {
-    contNumImpares = contNumImpares += 0;
 }
-    
 }
 
-console.log("Quantidade de numeros impares = " + contNumImpares)
+if (contNumImpares == 0) {
+    console.log("mehum valor impar encontrado");
+} else {
+    console.log("Quantidade de numeros impares = " + contNumImpares)
+
+}
 
 //7.
 let menorNum = maiorNum;
 for( let i = 0; i < numbers.length; i += 1 ) {  
 if( numbers[i] < menorNum) {
     menorNum = numbers[i]
-} else {
-    menorNum = menorNum
-}
+} 
 
 }
 
@@ -69,13 +67,14 @@ let arrayList = []
 
 for( let i = 0; i < 25; i += 1) {
     arrayList.push(i + 1)
-    console.log(arrayList[i])
 }
+    console.log(arrayList);
+
 
 //9.
 let listaDivisao = []
 
 for (let i = 0; i < arrayList.length; i += 1 ) {
     listaDivisao.push(arrayList[i] / 2)
-    console.log(listaDivisao[i])
 }
+    console.log(listaDivisao);

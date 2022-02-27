@@ -6,19 +6,19 @@
 
 - #### :white_check_mark: **[x] Bloco 02: Git, GitHub e Internet**
 
-- #### :hourglass_flowing_sand: **[x] Bloco 03: Introdução à HTML e CSS**
+- #### :white_check_mark: **[x] Bloco 03: Introdução à HTML e CSS**
 
-- #### :hourglass_flowing_sand: **[x] Bloco 04: Introdução à JavaScript e Lógica de Programação**
+- #### :white_check_mark: **[x] Bloco 04: Introdução à JavaScript e Lógica de Programação**
 
-- #### :hourglass_flowing_sand: **[x] Bloco 05: JavaScript: DOM, Eventos e Web Storage**
+- #### :white_check_mark: **[x] Bloco 05: JavaScript: DOM, Eventos e Web Storage**
 
-- #### :hourglass_flowing_sand: **[x] Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo**
+- #### :white_check_mark: **[x] Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo**
 
-- #### :hourglass_flowing_sand: **[x] Bloco 07: Introdução à JavaScript ES6 e Testes Unitários**
+- #### :hourglass_flowing_sand: [ ] Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
-- #### :hourglass_flowing_sand: **[x] Bloco 08: Higher Order Functions do JavaScript ES6**
+- #### :hourglass_flowing_sand: [ ] Bloco 08: Higher Order Functions do JavaScript ES6
 
-- #### :hourglass_flowing_sand: **[x] Bloco 09: JavaScript e Testes Assíncronos**
+- #### :hourglass_flowing_sand: [ ] Bloco 09: JavaScript e Testes Assíncronos
 
 #### **Checklist_Status**
 

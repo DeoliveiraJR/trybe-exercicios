@@ -186,21 +186,6 @@ buttonFriday.addEventListener('click', changeTextFriday);
 
 // Exercicio 6 -
 
-/*const elContainerDias = document.querySelector('#days');
-
-function zoomIn(e) {
-  e.currentTarget.style.fontSize = '30px';
-  e.currentTarget.style.fontWeight = '600px';
-}
-
-function zoomOut(e) {
-  e.currentTarget.style.fontSize = '20px';
-  e.currentTarget.style.fontWeight = '200';
-}
-
-elContainerDias.addEventListener('mouseover', zoomIn);
-elContainerDias.addEventListener('mouseout', zoomOut);
-*/
 function dayMouseOver() {
   let days = document.querySelector('#days');
 

@@ -6,13 +6,13 @@
 
 - #### :white_check_mark: **[x] Bloco 02: Git, GitHub e Internet**
 
-- #### :hourglass_flowing_sand: [ ] Bloco 03: Introdução à HTML e CSS
+- #### :white_check_mark: **[x] Bloco 03: Introdução à HTML e CSS**
 
-- #### :hourglass_flowing_sand: [ ] Bloco 04: Introdução à JavaScript e Lógica de Programação
+- #### :white_check_mark: **[x] Bloco 04: Introdução à JavaScript e Lógica de Programação**
 
-- #### :hourglass_flowing_sand: [ ] Bloco 05: JavaScript: DOM, Eventos e Web Storage
+- #### :white_check_mark: **[x] Bloco 05: JavaScript: DOM, Eventos e Web Storage**
 
-- #### :hourglass_flowing_sand: [ ] Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+- #### :white_check_mark: **[x] Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo**
 
 - #### :hourglass_flowing_sand: [ ] Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
